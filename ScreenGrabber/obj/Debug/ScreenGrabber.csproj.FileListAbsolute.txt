@@ -1,0 +1,19 @@
+G:\My Work\ScreenGrabber\ScreenGrabber\bin\Debug\ScreenGrabber.exe.config
+G:\My Work\ScreenGrabber\ScreenGrabber\bin\Debug\ScreenGrabber.exe
+G:\My Work\ScreenGrabber\ScreenGrabber\bin\Debug\ScreenGrabber.pdb
+G:\My Work\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.csprojResolveAssemblyReference.cache
+G:\My Work\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.Main.resources
+G:\My Work\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.Properties.Resources.resources
+G:\My Work\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.csproj.GenerateResource.Cache
+G:\My Work\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.exe
+G:\My Work\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.pdb
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\bin\Debug\ScreenGrabber.exe.config
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\bin\Debug\ScreenGrabber.exe
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\bin\Debug\ScreenGrabber.pdb
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.csprojResolveAssemblyReference.cache
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.Main.resources
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.Properties.Resources.resources
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.csproj.GenerateResource.Cache
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.csproj.CoreCompileInputs.cache
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.exe
+G:\ProjectFiles\GeistHistorical\ScreenGrabber\ScreenGrabber\obj\Debug\ScreenGrabber.pdb
