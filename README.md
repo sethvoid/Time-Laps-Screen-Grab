@@ -18,6 +18,5 @@ Open solution in Visual studio and build it. It only uses native librarys so sho
 
 ## Pre-built
 Download a pre-compiled verion here (https://github.com/Sebastian-Wallace/Time-Laps-Screen-Grab/raw/master/ScreenGrabber/obj/Debug/ScreenGrabber.exe) it will complain because it's supplied without a certificate. 
-Thank you for you intrest. 
 
 
