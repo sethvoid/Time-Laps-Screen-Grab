@@ -16,7 +16,6 @@ This software / code is free for commerical and personal use. As such any loss, 
 ## Compile
 Open solution in Visual studio and build it. It only uses native librarys so should build fine. 
 
-## Pre-built
-Download a pre-compiled verion here (https://github.com/Sebastian-Wallace/Time-Laps-Screen-Grab/raw/master/ScreenGrabber/obj/Debug/ScreenGrabber.exe) it will complain because it's supplied without a certificate. 
+
 
 
